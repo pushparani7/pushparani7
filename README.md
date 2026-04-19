@@ -30,7 +30,7 @@ Learning | Growing | Chasing impact
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=pushparani7&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
 
@@ -40,15 +40,9 @@ Learning | Growing | Chasing impact
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
- <img src="https://skillicons.dev/icons?i=python,sql,c,c++,html,css,js" />
+ <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=NumPy,Pandas,Scikit-learn,TensorFlow,PyTorch,NLTK,Transformers" />
-</td>
-</tr>
-<tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
@@ -56,7 +50,7 @@ Learning | Growing | Chasing impact
 </td>
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,antigravity,colab,postman" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
 </td>
 </tr>
 </table>
