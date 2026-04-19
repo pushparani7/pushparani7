@@ -48,7 +48,7 @@ Learning | Growing | Chasing impact
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
+<td width="80%" align="center">
     <h3>🧰 Tools & Platforms</h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
 </td>
