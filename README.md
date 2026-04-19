@@ -11,8 +11,8 @@
 Learning | Growing | Chasing impact
   </p>
   <p>
-    <img src="https://img.shields.io/badge/🌍_[India]-1e1e2e?style=for-the-badge" />
-    <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/📧_[pushparanib7]-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/📧_pushparanib7-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Ai & Ml)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>
