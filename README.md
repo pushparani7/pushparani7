@@ -8,7 +8,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
   <p>
   I'm an AI & Data Science engineering student focused on building real-world solutions using machine learning and intelligent systems.
-  I enjoy working on practical projects that solve everyday problems, especially in areas like computer vision and automation. Currently, I'm strengthening my skills in Ai, Python, data analysis, and machine learning while preparing for impactful projects and hackathons.
+  I enjoy working on practical projects that solve everyday problems. Currently, I'm strengthening my skills in Ai, Python, data analysis, and machine learning while preparing for impactful projects and hackathons.
 
   </p>
   <p>
