@@ -32,7 +32,7 @@ Learning | Growing | Chasing impact
   </a>
   <a href="mailto:pushparanib7"><img src="https://img.shields.io/badge/📧_Mail-1e1e2e?style=for-the-badge" /></a>
 <br clear="all" />
-## 🛠️ Skills
+<h3> 🛠️ Skills </h3>
 <p align="center">
 <table>
 <tr>
