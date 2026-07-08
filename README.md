@@ -9,19 +9,16 @@
   <p>
   I'm an AI & Data Science engineering student focused on building real-world solutions using machine learning and intelligent systems.
   I enjoy working on practical projects that solve everyday problems. Currently, I'm strengthening my skills in Ai, Python, data analysis, and machine learning while preparing for impactful projects and hackathons.
-
   </p>
   <p>
 Learning | Growing | Chasing impact
   </p>
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:pushparanib7"><img src="https://img.shields.io/badge/📧_Mail-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Ai & Ml)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>
 <h3>🌐 Socials</h3>
-  
 <p align="left">
 
   <a href="https://github.com/pushparani7/">
@@ -33,6 +30,7 @@ Learning | Growing | Chasing impact
   <a href="https://linkedin.com/in/pushparanib/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
+  <a href="mailto:pushparanib7"><img src="https://img.shields.io/badge/📧_Mail-1e1e2e?style=for-the-badge" /></a>
 <br clear="all" />
 
 ## 🛠️ Skills
