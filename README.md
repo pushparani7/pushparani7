@@ -61,6 +61,28 @@ Learning | Growing | Chasing impact
   <img src="https://streak-stats.demolab.com?user=pushparani7" alt="Streak" />
 </div>
 
+### 🔥 GitHub Contribution Chart
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+
+<div align="center">
+
+#### 💜 Code • Learn • Build • Repeat 💜
+
+</div>
 ---
 
 ##  Blogs :
